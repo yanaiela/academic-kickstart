@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "How Large Are Lions? Inducing Distributions over Quantitative Attributes"
-authors: ["Yanai Elazar", "Abhijit Mahabal", "Deepak Ramachandran", "Tania Bedrax-Weiss", "Dan Roth"]
-date: 2019-09-14T17:04:39+03:00
+title: "Privacy and Fairness in Recommender Systems via Adversarial Training of User Representations"
+authors: ["Yehezkel S. Resheff", "Yanai Elazar", "Moni Shahar", "Oren Sar Shalom"]
+date: 2019-09-14T17:10:02+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-09-14T17:04:39+03:00
+publishDate: 2019-09-14T17:10:02+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2019-09-14T17:04:39+03:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "How Large Are Lions? Inducing Distributions over Quantitative Attributes"
+publication: "Privacy and Fairness in Recommender Systems via Adversarial Training of User Representations"
 publication_short: ""
 
 abstract: ""
@@ -36,9 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/1906.01327"
-url_code: "https://github.com/google-research-datasets/distribution-over-quantities"
-url_dataset: "https://github.com/google-research-datasets/distribution-over-quantities"
+url_pdf: "https://arxiv.org/pdf/1807.03521.pdf"
+url_code: "https://github.com/Hezi-Resheff/uninformative-recsys"
+url_dataset:
 url_poster:
 url_project:
 url_slides:

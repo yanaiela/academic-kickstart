@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Demo"
-authors: []
-date: 2019-09-14T17:04:21+03:00
+title: "Where's My Head? Definition, Dataset and Models for Numeric Fused-Heads Identification and Resolution"
+authors: ["Yanai Elazar", "Yoav Goldberg"]
+date: 2019-09-14T17:09:52+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-09-14T17:04:21+03:00
+publishDate: 2019-09-14T17:09:52+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2019-09-14T17:04:21+03:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Where's My Head? Definition, Dataset and Models for Numeric Fused-Heads Identification and Resolution"
 publication_short: ""
 
 abstract: ""
@@ -36,9 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
-url_dataset:
+url_pdf: "https://arxiv.org/abs/1905.10886"
+url_code: "https://github.com/yanaiela/num_fh"
+url_dataset: "https://github.com/yanaiela/num_fh/tree/master/data/resolution/processed"
 url_poster:
 url_project:
 url_slides:
@@ -46,7 +46,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""

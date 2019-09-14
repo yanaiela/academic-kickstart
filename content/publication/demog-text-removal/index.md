@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "How Large Are Lions? Inducing Distributions over Quantitative Attributes"
-authors: ["Yanai Elazar", "Abhijit Mahabal", "Deepak Ramachandran", "Tania Bedrax-Weiss", "Dan Roth"]
-date: 2019-09-14T17:04:39+03:00
+title: "Adversarial Removal of Demographic Attributes from Text Data"
+authors: ["Yanai Elazar", "Yoav Goldberg"]
+date: 2019-09-14T17:09:43+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-09-14T17:04:39+03:00
+publishDate: 2019-09-14T17:09:43+03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2019-09-14T17:04:39+03:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "How Large Are Lions? Inducing Distributions over Quantitative Attributes"
+publication: "Adversarial Removal of Demographic Attributes from Text Data"
 publication_short: ""
 
 abstract: ""
@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/1906.01327"
-url_code: "https://github.com/google-research-datasets/distribution-over-quantities"
-url_dataset: "https://github.com/google-research-datasets/distribution-over-quantities"
+url_pdf: "https://arxiv.org/abs/1808.06640"
+url_code: "https://github.com/yanaiela/demog-text-removal"
+url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: "https://yanaiela.github.io/presentations/demog-text-removal-emnlp18.pdf"
 url_source:
-url_video:
+url_video: "https://vimeo.com/305203150"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
