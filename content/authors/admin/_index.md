@@ -14,28 +14,28 @@ role: PhD Student of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Bar-Ilan University
+  url: "https://www1.biu.ac.il/indexE.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Natural Language Processing and Machine Learning.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+  #- course: PhD in Artificial Intelligence
+  #  institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -64,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "first-name ela at gmail"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -72,3 +72,8 @@ email: ""
 #- Researchers
 #- Visitors
 ---
+
+I am a first year Phd student in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/).  
+I also work as a research intern at [AI2 Israel](https://allenai.org/ai2-israel/).
+
+My interests lie between Natural Language Processing and Machine Learning.
