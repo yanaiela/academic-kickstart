@@ -48,12 +48,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yanaiela
+
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.il/citations?user=7p_Ce8kAAAAJ
+
 - icon: github
   icon_pack: fab
   link: https://github.com/yanaiela
+  
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yanai-elazar-7b345b95/
