@@ -41,7 +41,7 @@ url_code: "https://github.com/google-research-datasets/distribution-over-quantit
 url_dataset: "https://github.com/google-research-datasets/distribution-over-quantities"
 url_poster:
 url_project:
-url_slides:
+url_slides: "static/presentations/doq-iscol.pdf"
 url_source:
 url_video:
 
