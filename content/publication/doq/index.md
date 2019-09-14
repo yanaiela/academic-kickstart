@@ -13,7 +13,7 @@ publishDate: 2019-09-14T17:04:39+03:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "How Large Are Lions? Inducing Distributions over Quantitative Attributes"
@@ -41,7 +41,7 @@ url_code: "https://github.com/google-research-datasets/distribution-over-quantit
 url_dataset: "https://github.com/google-research-datasets/distribution-over-quantities"
 url_poster:
 url_project:
-url_slides: "static/presentations/doq-iscol.pdf"
+url_slides: "doq-iscol.pdf"
 url_source:
 url_video:
 

@@ -3,7 +3,7 @@
 
 title: "Adversarial Removal of Demographic Attributes from Text Data"
 authors: ["Yanai Elazar", "Yoav Goldberg"]
-date: 2019-09-14T17:09:43+03:00
+date: 2019-09-10T17:09:43+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,7 +13,7 @@ publishDate: 2019-09-10T17:09:43+03:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Adversarial Removal of Demographic Attributes from Text Data"
@@ -41,7 +41,7 @@ url_code: "https://github.com/yanaiela/demog-text-removal"
 url_dataset:
 url_poster:
 url_project:
-url_slides: "https://yanaiela.github.io/presentations/demog-text-removal-emnlp18.pdf"
+url_slides: "demog-text-removal-emnlp18.pdf"
 url_source:
 url_video: "https://vimeo.com/305203150"
 
