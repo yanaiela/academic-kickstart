@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/1905.10886"
+url_pdf: "https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00280"
 url_code: "https://github.com/yanaiela/num_fh"
 url_dataset: "https://github.com/yanaiela/num_fh/tree/master/data/resolution/processed"
 url_poster:
