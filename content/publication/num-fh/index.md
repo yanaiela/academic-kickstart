@@ -41,7 +41,7 @@ url_code: "https://github.com/yanaiela/num_fh"
 url_dataset: "https://github.com/yanaiela/num_fh/tree/master/data/resolution/processed"
 url_poster:
 url_project:
-url_slides:
+url_slides: "num_fh-emnlp19.pdf"
 url_source:
 url_video:
 
