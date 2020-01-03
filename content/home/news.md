@@ -12,7 +12,9 @@ title = "News"
 subtitle = ""
 
 +++
-
+* Jan 2020: Invited talk at DataHack Meetup
+* Nov 2019: Invited talk at IBM research, Israel
+* Sep 2019: Invited talk at ISCOL, Israel
 * May 2019: Invited talk at Citi Innovation lab, Israel
 * May 2019: Accepted paper to ACL19
 * May 2019: Accepted paper to TACL
