@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "TACL 2019"
-publication_short: ""
+publication_short: "TACL 2019"
 
 abstract: ""
 
