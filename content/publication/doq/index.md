@@ -16,8 +16,8 @@ publishDate: 2019-09-14T17:04:39+03:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "How Large Are Lions? Inducing Distributions over Quantitative Attributes"
-publication_short: ""
+publication: ""
+publication_short: "ACL 2019"
 
 abstract: ""
 
