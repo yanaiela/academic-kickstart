@@ -16,7 +16,7 @@ publishDate: 2019-09-13T17:09:52+03:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Where's My Head? Definition, Dataset and Models for Numeric Fused-Heads Identification and Resolution"
+publication: "TACL 2019"
 publication_short: ""
 
 abstract: ""
