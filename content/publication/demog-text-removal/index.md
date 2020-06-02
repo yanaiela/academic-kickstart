@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Adversarial Removal of Demographic Attributes from Text Data"
-authors: []
-date: 2020-06-03T00:24:19+03:00
+authors: ["Yanai Elazar", "Yoav Goldberg"]
+date: 2019-02-03T00:24:19+03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
