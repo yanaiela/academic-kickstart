@@ -36,7 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/1808.06640"
+#url_pdf: "https://arxiv.org/abs/1808.06640"
+url_pdf: "https://www.aclweb.org/anthology/D18-1002.pdf"
 url_code: "https://github.com/yanaiela/demog-text-removal"
 url_dataset:
 url_poster:
