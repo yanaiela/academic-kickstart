@@ -9,7 +9,7 @@ tags: ["ACL", "Conference"]
 categories: []
 date: 2020-07-05T01:26:41+03:00
 lastmod: 2020-07-05T01:26:41+03:00
-featured: false
+featured: true
 draft: false
 
 
