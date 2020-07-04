@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Attending ACL2020"
+title: "Attending ACL2020 (Remotely)"
 subtitle: ""
 summary: ""
 authors: ["Yanai Elazar"]
@@ -15,7 +15,6 @@ draft: false
 
 ---
 
-# Attending ACL2020 (From Remote)
 
 Tomorrow (July 5th, 2020) is the first day of [ACL](https://acl2020.org/), and this year, as opposed to what we are used to, it will be held online.
 It is very unfortunate that we have to attend the conference on remote, however, it also allows more people to attend, which is a good thing! As such, some lab mates asked me about my strategy for attending this conference. Honestly, I don't know. The organizers put a lot of effort into putting an impressive website, but the entire situation is quite overwhelming: the various types of "meetings", the huge amount of papers (all of which are recorded, etc.), the chat, the livestream, etc.
