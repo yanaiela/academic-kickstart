@@ -80,3 +80,5 @@ I am a second year Phd student in the [Natural Language Processing Lab](http://u
 I also work as a research intern at [AI2 Israel](https://allenai.org/ai2-israel/).
 
 My interests lie between Natural Language Processing and Machine Learning.
+
+I am also co-organizing an online NLP seminar: [NLP with Friends](https://nlpwithfriends.com/), along with [Abhilasha Ravichander](https://www.cs.cmu.edu/~aravicha/), [Liz Salesky](https://esalesky.      |github.io/) and [Zeerak Waseem](https://twitter.com/ZeerakW). Join us!
