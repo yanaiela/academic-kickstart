@@ -12,6 +12,7 @@ title = "News"
 subtitle = ""
 
 +++
+* Jul 2020: Co-organizing a new online NLP seminar: [NLP with Friends](https://nlpwithfriends.com/). Join us!
 * Jan 2020: Invited talk at DataHack Meetup
 * Nov 2019: Invited talk at IBM research, Israel
 * Sep 2019: Invited talk at ISCOL, Israel
