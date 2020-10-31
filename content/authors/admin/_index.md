@@ -76,8 +76,10 @@ email: "first-name ela at gmail"
 #- Visitors
 ---
 
-I am a second year Phd student in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/).  
+I am a third year PhD student in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/).  
 I also work as a research intern at [AI2 Israel](https://allenai.org/ai2-israel/).
+
+I'm extremely greatful (and [lucky!](https://www.youtube.com/watch?v=3LopI4YeC4I&t=6s)) to be a [Google PhD Fellow](https://ai.googleblog.com/2020/10/announcing-2020-google-phd-fellows.html).
 
 My interests lie between Natural Language Processing and Machine Learning.
 
