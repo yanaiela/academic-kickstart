@@ -12,6 +12,9 @@ title = "News"
 subtitle = ""
 
 +++
+* Dec 2020: Invited talk at AI2, Seattle
+* Dec 2020: Invited talk at Miscrosoft, Israel
+* Nov 2020: Invited talk at CMU, USA
 * Oct 2020: I was featured in the [Jerusalem Post](https://www.jpost.com/israel-news/bar-ilan-doctoral-student-receives-google-phd-fellowship-647545)
 * Oct 2020: I shortly [appeared](https://www.ifat.com/InfoBuzzerItemPage/?resourceId=10230369&appUser=0&resourceId=10230369&appUser=0) on an Israeli radio show - [Shlosha Sheyody'im (Three who knows)](https://www.kan.org.il/podcast/program.aspx/?progId=2029) with Dudu Erez
 * Oct 2020: I'm a [Google PhD Fellow](https://ai.googleblog.com/2020/10/announcing-2020-google-phd-fellows.html)
